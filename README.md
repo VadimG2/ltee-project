@@ -9,7 +9,7 @@ Built as the example project of the Reproducible and Open Science lessons.
 The analysis steps follow the Data Carpentry lesson *Wrangling
 Genomics* (CC BY 4.0).
 
-Author: Ada Lovelace (ORCID [0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097))
+Author: Vadim Gvozdev
 
 ## Publication
 
