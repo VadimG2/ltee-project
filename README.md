@@ -14,7 +14,7 @@ Author: Vadim Gvozdev
 
 ## Publication
 
-DOI: 10.5281/zenodo.24534719. The data and biology are from Tenaillon et al. (2016), *Nature*
+The data and biology are from Tenaillon et al. (2016), *Nature*
 536:165–170, <https://doi.org/10.1038/nature18959>.
 
 ## Reproduce the results
