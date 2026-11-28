@@ -10,11 +10,11 @@ The analysis steps follow the Data Carpentry lesson *Wrangling
 Genomics* (CC BY 4.0).
 
 Author: Vadim Gvozdev
-DOI: 10.5281/zenodo.24534719
+
 
 ## Publication
 
-None yet. The data and biology are from Tenaillon et al. (2016), *Nature*
+DOI: 10.5281/zenodo.24534719. The data and biology are from Tenaillon et al. (2016), *Nature*
 536:165–170, <https://doi.org/10.1038/nature18959>.
 
 ## Reproduce the results
