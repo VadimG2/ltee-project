@@ -10,6 +10,7 @@ The analysis steps follow the Data Carpentry lesson *Wrangling
 Genomics* (CC BY 4.0).
 
 Author: Vadim Gvozdev
+DOI: 10.5281/zenodo.24534719
 
 ## Publication
 
