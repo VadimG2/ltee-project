@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "LTEE variant calling by Vadim"
 abstract: "Variant calling on three E. coli clones from the Long-Term Evolution Experiment, with a sensitivity analysis of the variant filter."
+DOI: "10.5281/zenodo.24534719"
 type: software
 authors:
   - given-names: "Vadim"
